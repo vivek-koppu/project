@@ -28,6 +28,8 @@ This is a web based application developed for Skin Beauty & Spa Category
    
 
 ### About Us -
+![image](https://user-images.githubusercontent.com/105732304/209970981-0edabeae-0557-4dbf-99ea-4c437fdcfa12.png)
+![image](https://user-images.githubusercontent.com/105732304/209971162-545461ed-7f87-46a6-b773-76fd36297d53.png)
 
 
 
@@ -37,7 +39,7 @@ I have used Azure health bot service to create a bot to solve the user problems 
 
 
 ### Contact us -
-
+![image](https://user-images.githubusercontent.com/105732304/209971308-57cde8a8-15de-45d6-9ba0-90e0d66d0757.png)
 
 
 
