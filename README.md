@@ -1,10 +1,11 @@
-Skin Beauty & Spa Category
+Skin Beauty
 
 This is a web based application developed for Skin Beauty & Spa Category
 
 
 **Project Link** -https://happy-ocean-0bcc02d10.2.azurestaticapps.net
-**project demo video link** - 
+
+**project demo video link** - https://youtu.be/nrVL35IwN6Q
 
 ## Azure technologies used for Project
 
